@@ -28,7 +28,7 @@ include 'dbconnect.php';
                         <option value="#report-found-item">Finder's Form</option>
                     </select>
                 </li>
-                <li><a href="items.html">Search and Match Items</a></li>
+                <li><a href="items.php">Search and Match Items</a></li>
             </ul>
         </nav>
     </header>
