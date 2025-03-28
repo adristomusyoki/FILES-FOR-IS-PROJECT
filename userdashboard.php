@@ -122,7 +122,7 @@ include 'dbconnect.php';
                 <input type="text" id="found-contact" name="found-contact" required>
                 
                 <button type="submit">Submit</button>
-                <a href="logout.php">Logout</a>
+             <a href="logout.php" class="logout-button">Logout</a>
             </form>
         </section>
     </main>
