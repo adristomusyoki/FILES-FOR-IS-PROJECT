@@ -19,7 +19,7 @@ include 'dbconnect.php';
         <h1>You Lose & We Find</h1>
         <nav>
             <ul>
-                <li><a href="home.html">Home</a></li>
+                <li><a href="home.php">Home</a></li>
                 <li>
                     <label for="dropdown" style="display: none;">Choose an option:</label>
                     <select id="dropdown" name="options" onchange="location.href = this.value;" class="styled-dropdown">
